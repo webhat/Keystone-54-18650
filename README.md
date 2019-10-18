@@ -2,4 +2,4 @@
 
 This footprint requires two clips
 
-[Keystone 18650 clips](https://cdn.sparkfun.com/datasheets/Prototyping/54.PDF)
+Datasheet [Keystone 18650 clips](https://cdn.sparkfun.com/datasheets/Prototyping/54.PDF)
